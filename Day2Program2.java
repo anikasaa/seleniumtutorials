@@ -38,3 +38,4 @@ public class Day2Program2 {
 	}
 
 }
+                

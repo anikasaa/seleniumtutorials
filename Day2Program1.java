@@ -26,7 +26,7 @@ public class Day2Program1 {
 		
 		
 		//Clear method
-		//firstName.clear();
+		//firstName.clear();                                           
 		
 		//Click button
 		//reset.click();

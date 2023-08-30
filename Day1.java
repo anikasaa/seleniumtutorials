@@ -21,7 +21,7 @@ public class Day1 {
 		// Actions
 		// Selecting the Elements
 
-		driver.get("https://www.saucedemo.com/");
+		driver.get("https://www.saucedemo.com/"); 
 		WebElement username = driver.findElement(By.cssSelector("#user-name"));
 		WebElement password = driver.findElement(By.cssSelector("#password"));
 		WebElement login = driver.findElement(By.cssSelector("#login-button"));
