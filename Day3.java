@@ -33,9 +33,9 @@ public class Day3 {
 		// id
 		// <form action="contact_us.php" method="post" id="contact_form">
 
-		WebElement headTwoc = driver.findElement(By.cssSelector("#contact_form"));
-		boolean pre = headTwoc.isDisplayed();
-		System.out.println(pre);
+//		WebElement headTwoc = driver.findElement(By.cssSelector("#contact_form"));
+//		boolean pre = headTwoc.isDisplayed();
+//		System.out.println(pre);
 
 		// anyAttribute
 		// tagName[attribute = "value"]

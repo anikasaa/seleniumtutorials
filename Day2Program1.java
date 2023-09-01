@@ -5,6 +5,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Day2Program1 {
 
 	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver",
+				"C:\\Users\\anish\\OneDrive\\Desktop\\chromedriver\\chromedriver.exe");
+		
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.webdriveruniversity.com/Contact-Us/contactus.html");
 		
