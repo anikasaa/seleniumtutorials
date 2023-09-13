@@ -27,6 +27,8 @@ public class Day9Handlingtabs {
 
 		driver.findElement(By.name("first_name")).sendKeys("Anisha");
 		driver.findElement(By.name("last_name")).sendKeys("Tuladhar");
+		driver.findElement(By.name("email")).sendKeys("anisha.kansakar@gmail.com");
+		driver.findElement(By.name("message")).sendKeys("i am learning selenium");
 
 		driver.switchTo().window(parentwindow);
 
