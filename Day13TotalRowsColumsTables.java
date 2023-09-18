@@ -38,7 +38,7 @@ public class Day13TotalRowsColumsTables {
 			sum = sum + Integer.parseInt(text);
 		}
 
-		System.out.println(sum);
+		System.out.println(sum);                                                                                                 
 
 		// find the name Michael in table 1
 
